@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ethalumninec.github.io/sitemap.xml
